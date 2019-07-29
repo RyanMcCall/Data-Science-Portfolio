@@ -11,7 +11,7 @@ This site is to display my completed projects. Please feel free to look around a
 
 ## Future Updates/Additions/Corrections
 * [Exploring Hacker News Posts](https://github.com/RyRyMc/Data-Science-Portfolio/blob/master/hacker_news_analysis.ipynb)
- * Will update to more modern format upon learning newer techniques
- * Will explore other questions
+  *  Will update to more modern format upon learning newer techniques
+  * Will explore other questions
 * [App Profile Analysis](https://github.com/RyRyMc/Data_Science_Portfolio/blob/master/App_Profile_Analysis.ipynb)
- * Will update to more modern format upon learning newer techniques
+  * Will update to more modern format upon learning newer techniques
