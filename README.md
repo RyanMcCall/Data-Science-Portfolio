@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This site is to display my completed projects. Please feel free to look around and contact me with any questions.
+This site is to display Ryan McCall's completed projects. Please feel free to look around and contact me with any questions.
 
 ## Current Work
 * Currently learning NumPy and Pandas libraries
